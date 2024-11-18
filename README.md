@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Privacy Policy for TravelApp">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #0056b3;
+        }
+        a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Políticas de Privacidad y Manejo de Datos</h1>
+    <p>Effective Date: 01/11/2024</p>
+
+    <p>
+        Travel App, la solución de transporte para los municipios de Colombia, está comprometido con la protección de su privacidad. 
+        Esta Política de Privacidad y Manejo de Datos describe cómo recopilamos, utilizamos, divulgamos y protegemos su información 
+        personal cuando utiliza nuestra aplicación de petición de taxis Travel App.
+    </p>
+
+    <h2>1. Información que Recopilamos</h2>
+    
+    <p>1.1 Información Proporcionada por el Usuario</p>
+    <ul>
+        <li><strong>Registro</strong>: Al registrarse, recopilamos su nombre, dirección de correo electrónico y número de teléfono.</li>
+        <li><strong>Perfil del Usuario</strong>: Puede proporcionar información adicional en su perfil, como foto de perfil, dirección de casa y trabajo.</li>
+    </ul>
+
+    <p>1.2 Información Recopilada Automáticamente</p>
+    <ul>
+        <li><strong>Datos de Ubicación</strong>: Recopilamos información sobre su ubicación en tiempo real cuando utiliza la aplicación para solicitar un taxi.</li>
+        <li>
+            <strong>Background Service</strong>: Usamos la ubicación del conductor en tiempo real para mantener actualizado al usuario acerca de la ubicación del 
+            vehículo solicitado con el fin de garantizar un servicio eficiente y de alta calidad. Esto permite que ambos usuarios puedan verificar 
+            la distancia entre sí, mientras el conductor actualiza su ubicación constantemente. De este modo, aseguramos una experiencia fluida y satisfactoria, 
+            optimizada para la solicitud de taxis.
+        </li>
+        <li><strong>Información del Dispositivo</strong>: Recopilamos datos sobre su dispositivo, como el modelo, sistema operativo, identificadores únicos y datos de red móvil.</li>
+        <li><strong>Uso de la Aplicación</strong>: Recopilamos información sobre cómo interactúa con nuestra aplicación, como las páginas visitadas y las funciones utilizadas.</li>
+    </ul>
+
+    <p>1.3 Información de Terceros</p>
+    <ul>
+        <li><strong>Integraciones de Terceros</strong>: Podemos recibir información sobre usted de servicios de terceros que se integran con nuestra aplicación, como servicios de pago o redes sociales.</li>
+    </ul>
+
+    <h2>2. Uso de la Información</h2>
+    <p>2.1 Proporcionar y Mejorar Nuestros Servicios</p>
+
+    <ul>
+        <li>Utilizamos su información para procesar sus solicitudes de taxi, gestionar su cuenta y mejorar la funcionalidad y la seguridad de nuestra aplicación.</li>
+    </ul>
+
+    <p>2.2 Comunicación</p>
+
+    <ul>
+        <li>Utilizamos su información de contacto para enviar notificaciones importantes, actualizaciones y promociones de nuestro servicio.</li>
+    </ul>
+
+    <p>2.3 Análisis y Desarrollo</p>
+
+    <ul>
+        <li>Analizamos el uso de nuestra aplicación para entender las tendencias y mejorar nuestras ofertas y servicios.</li>
+    </ul>
+
+    <h2>3. Compartir Información</h2>
+    <p>3.1 Proveedores de Servicios</p>
+
+    <ul>
+        <li>Compartimos su información con terceros que nos ayudan a operar nuestra aplicación, como procesadores de pago y servicios de mensajería.</li>
+    </ul>
+
+    <p>3.2 Conductores de Travel App</p>
+
+    <ul>
+        <li>Compartimos información relevante con los conductores que responden a sus solicitudes de taxi, como su ubicación y detalles de contacto.</li>
+    </ul>
+
+    <p>3.3 Cumplimiento Legal</p>
+
+    <ul>
+        <li>Podemos divulgar su información si es requerido por ley o en respuesta a una solicitud válida por parte de autoridades competentes.</li>
+    </ul>
+
+    <h2>4. Seguridad de la Información</h2>
+    <p>
+        Implementamos medidas de seguridad adecuadas para proteger su información contra accesos no autorizados, 
+        alteraciones, divulgaciones o destrucción. Sin embargo, ninguna transmisión de datos a través de internet o 
+        almacenamiento electrónico es completamente segura, por lo que no podemos garantizar una seguridad absoluta.
+    </p>
+
+    <h2>5. Retención de Datos</h2>
+    <p>
+        Retenemos su información personal durante el tiempo que sea necesario para cumplir con los 
+        propósitos descritos en esta política, a menos que se requiera o permita un período de retención más 
+        largo por ley.
+    </p>
+
+    <h2>6. Derechos del Usuario</h2>
+
+    <p>6.1 Acceso y Rectificación</p>
+    <ul>
+        <li>Puede acceder y actualizar su información personal en cualquier momento a través de la configuración de su cuenta en la aplicación.</li>
+    </ul>
+
+    <p>6.2 Eliminación</p>
+    <ul>
+        <li>Puede solicitar la eliminación de su cuenta y datos personales poniéndose en contacto con nuestro equipo de soporte.</li>
+    </ul>
+
+    <p>6.3 Objeción y Restricción</p>
+    <ul>
+        <li>Tiene derecho a objetar el procesamiento de su información personal y a solicitar la restricción del uso de sus datos en ciertas circunstancias.</li>
+    </ul>
+
+    <h2>7. Cambios en la Política de Privacidad</h2>
+
+    <p>
+        Nos reservamos el derecho de actualizar esta Política de Privacidad y Manejo de Datos en cualquier momento. 
+        Le notificaremos sobre cualquier cambio significativo mediante un aviso en nuestra aplicación o por otros medios de 
+        comunicación adecuados.
+    </p>
+
+    <h2>8. Contacto</h2>
+
+    <p>Si tiene alguna pregunta o inquietud sobre esta Política de Privacidad y Manejo de Datos, por favor contacte a nuestro equipo de soporte a través de la aplicación o en el siguiente correo electrónico</p>
+    <p>Correo: <a href="mailto:travel2022app@gmail.com">travel2022app@gmail.com</a></p>
+
+    <p>Al utilizar Travel App, usted acepta los términos de esta Política de Privacidad y Manejo de Datos.</p>
+
+    <footer>Gracias por usar TravelApp</footer>
+</body>
+</html>
